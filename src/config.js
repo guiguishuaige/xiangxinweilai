@@ -7,7 +7,7 @@ const config = {
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
-  avatar: "/img/xiangxinweilai.jpg", // 头像
+  avatar: "/img/avatar.jpg", // 头像
   welcometitle: "Hi, We are Xiangxin Future", // 标题
 
   // 颜色配置
@@ -27,9 +27,9 @@ const config = {
     "pc":{   //pc端
       "type":"pic",   //"pic":静态壁纸;"video":动态壁纸
       "datainfo":{
-        "title":"合照2", 
-        "preview":"img/background/hezhao2.jpg",
-        "url":"img/background/hezhao2.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+        "title":"海洋女孩", 
+        "preview":"/img/wallpaper/static/海洋女孩/image-pre.webp",
+        "url":"/img/wallpaper/static/海洋女孩/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
       },
     },
     "mobile":{   //移动端
