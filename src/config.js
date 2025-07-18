@@ -1,9 +1,9 @@
 const config = {
   //网页元数据
-  metaData:{
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
-    keywords: 'Leleo,leleo,个人主页,个人网站',
+  metaData: {
+    title: '湘信未来的团队主页🎉',
+    description: '欢迎来到湘信未来！',
+    keywords: 'guiguiren,guiguiren,团队主页,团队网站,湘信未来',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
