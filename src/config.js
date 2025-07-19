@@ -1,14 +1,14 @@
 const config = {
   //网页元数据
   metaData:{
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
-    keywords: 'Leleo,leleo,个人主页,个人网站',
+    title: '湘信未来的团队主页🎉',
+    description: '欢迎来到湘信未来！',
+    keywords: 'xiangxinweilai,guiguiren,团队主页,个人网站',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
   avatar: "https://cfbed.1314883.xyz/file/1752886284573_xiangxinweilai.jpg", // 头像
-  welcometitle: "Hi, I'm Leleo", // 标题
+  welcometitle: "Hi, we are Xiangxin Future", // 标题
 
   // 颜色配置
   color: {
@@ -20,24 +20,24 @@ const config = {
   blur: 5, // 毛玻璃模糊效果
 
   // 我的标签
-  tags : ['乐观开朗','温柔体贴','随和亲切','冷静沉着','才思敏捷','风趣幽默','刚正不阿','善解人意'],
+  tags : ['奋发图强', '同舟共济', '锐意进取', '一团和气', '相待以诚', '风趣幽默', '和睦相处', '守望相助'],
 
   // 默认背景壁纸
   background: {
     "pc":{   //pc端
       "type":"pic",   //"pic":静态壁纸;"video":动态壁纸
       "datainfo":{
-        "title":"海洋女孩", 
-        "preview":"/img/wallpaper/static/海洋女孩/image-pre.webp",
-        "url":"/img/wallpaper/static/海洋女孩/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+        "title":"hezhao2", 
+        "preview":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",
+        "url":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
       },
     },
     "mobile":{   //移动端
       "type":"pic",
       "datainfo":{
         "title":"0001", 
-        "preview":"/img/wallpaper/static-mobile/0001/image-pre.webp",
-        "url":"/img/wallpaper/static-mobile/0001/image.png"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
+        "preview":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",
+        "url":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
       }
     }
       
@@ -61,11 +61,13 @@ const config = {
 
   //打字机
   typeWriterStrings: [
-    "如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
-    "顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
-    "心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
-    "生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
-  ],
+    "如果你看到了这行字，说明我们已经成功吸引到了你的注意力。",
+    "我们是来自湖南大学的湘信未来团队",
+    "没有华丽的仪式，只有行李箱轮滚过地面的轰鸣声和彼此眼里的光。这支由青年学子组成的队伍，带着精心筹备的“数字赋能+人文关怀”实践方案，登上了开往麻阳苗乡的高铁。"
+    "这不是一场简单的实践，而是一次用脚步丈量土地的承诺，，一次以真心换真心的旅程。",
+    "当高铁的余音消散在苗岭深处，我们的身影便融入了这片土地的晨雾与炊烟。",
+    "青春最美的样子，大概就是我们这群人、一条心、一片土",
+  ]
 
   //音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
   musicPlayer:{
