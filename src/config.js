@@ -28,7 +28,7 @@ const config = {
       "type":"pic",   //"pic":静态壁纸;"video":动态壁纸
       "datainfo":{
         "title":"hezhao2", 
-        "preview":"/img/wallpaper/static/海洋女孩/image-pre.webp",
+        "preview":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",
         "url":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
       },
     },
@@ -36,7 +36,7 @@ const config = {
       "type":"pic",
       "datainfo":{
         "title":"0001", 
-        "preview":"/img/wallpaper/static-mobile/0001/image-pre.webp",
+        "preview":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",
         "url":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
       }
     }
@@ -63,7 +63,7 @@ const config = {
   typeWriterStrings: [
     "如果你看到了这行字，说明我们已经成功吸引到了你的注意力。",
     "我们是来自湖南大学的湘信未来团队",
-    "没有华丽的仪式，只有行李箱轮滚过地面的轰鸣声和彼此眼里的光。这支由青年学子组成的队伍，带着精心筹备的“数字赋能+人文关怀”实践方案，登上了开往麻阳苗乡的高铁。"
+    "没有华丽的仪式，只有行李箱轮滚过地面的轰鸣声和彼此眼里的光。这支由青年学子组成的队伍，带着精心筹备的“数字赋能+人文关怀”实践方案，登上了开往麻阳苗乡的高铁。",
     "这不是一场简单的实践，而是一次用脚步丈量土地的承诺，，一次以真心换真心的旅程。",
     "当高铁的余音消散在苗岭深处，我们的身影便融入了这片土地的晨雾与炊烟。",
     "青春最美的样子，大概就是我们这群人、一条心、一片土",
