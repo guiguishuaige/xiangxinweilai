@@ -130,10 +130,10 @@ const config = {
 
   //项目卡片 其中 字段"show"控制初始卡片的text是否展开
   projectcards:[ 
-    {go:"🚀 前往",img:"/img/sunshine.jpg",title:"Project 1",subtitle:"1,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🗂️ 前往",img:"/img/sunshine.jpg",title:"Project 2",subtitle:"2,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"📝 前往",img:"/img/sunshine.jpg",title:"Project 3",subtitle:"3,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"👍 前往",img:"/img/sunshine.jpg",title:"Project 4",subtitle:"4,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
+    {go:"🚀 前往",img:"https://cfbed.1314883.xyz/file/1752894093588_qicheng.png",title:"用脚步丈量热爱，以行动点亮童梦",subtitle:"启程：麻阳，我们来了！", text:"这是我们第一篇推文，记录了我们初来乍到的狼狈和兴奋",url:"https://mp.weixin.qq.com/s/YipPEWeyJTwZWmFQ61Pg3A",show:false},
+    {go:"🗂️ 前往",img:"https://cfbed.1314883.xyz/file/1752894186108_zhaosheng.jpg",title:"青春锦江育新苗，麻阳启明照远方",subtitle:"跌宕起伏的招生过程", text:"电话那头，或因无人接听陷入沉默，或因空号泛起失落，或被挂断时的一声轻叹，但偶尔传来的“愿意！”如同清泉，瞬间冲散疲惫。",url:"https://mp.weixin.qq.com/s/hZXMmdzhf4EPoD92dy34aQ",show:false},
+    {go:"📝 前往",img:"https://cfbed.1314883.xyz/file/1752894192913_zhijiao.jpg",title:"烛火课堂燃星梦，童心沃野种麻阳",subtitle:"支教上篇", text:"回望点滴，皆是感动：童真是最美的回响， 普法课后低声的倾诉，乐理课上合唱校歌的自信，配音时“哪吒”引发的欢笑，历史课里沉重的共鸣，实验课后那句热切的“再做一次”…",url:"https://leleo.top",show:false},
+    {go:"👍 前往",img:"https://cfbed.1314883.xyz/file/1752894181238_xungen.jpg",title:"寻根脉，话振兴",subtitle:"探寻文化根脉、见证乡村振兴", text:"五棵树，成爷爷，胡奶奶，陈先生，陈武生爷爷",url:"https://mp.weixin.qq.com/s/MoOlSQS7dqsYc4J5e21AhA",show:false},
     {go:"🗃 前往",img:"/img/sunshine.jpg",title:"Project 5",subtitle:"5,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"🎨 前往",img:"/img/sunshine.jpg",title:"Project 6",subtitle:"6,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"💍 前往",img:"/img/sunshine.jpg",title:"Project 7",subtitle:"7,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
