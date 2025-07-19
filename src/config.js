@@ -28,7 +28,7 @@ const config = {
       "type":"pic",   //"pic":静态壁纸;"video":动态壁纸
       "datainfo":{
         "title":"hezhao2", 
-        "preview":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",
+        "preview":"/img/wallpaper/static/海洋女孩/image-pre.webp",
         "url":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
       },
     },
@@ -36,7 +36,7 @@ const config = {
       "type":"pic",
       "datainfo":{
         "title":"0001", 
-        "preview":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg",
+        "preview":"/img/wallpaper/static-mobile/0001/image-pre.webp",
         "url":"https://cfbed.1314883.xyz/file/1752891161160_hezhao2.jpg"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
       }
     }
